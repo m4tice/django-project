@@ -1,2 +1,2 @@
 # django-project
-A repository for advanced practice of Django and web development
+A repository for the advanced practices of Django and web development
